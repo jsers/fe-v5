@@ -83,6 +83,7 @@
     "babel-traverse": "^6.26.0",
     "babel-types": "^6.26.0",
     "better-babel-generator": "^6.26.1",
+    "cross-env": "^7.0.3",
     "dotenv": "^16.0.1",
     "less": "^4.1.1",
     "less-loader": "^8.1.1",
